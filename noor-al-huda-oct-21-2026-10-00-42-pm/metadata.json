@@ -1,0 +1,6 @@
+{
+  "name": "سَكينة (Sakina)",
+  "description": "سَكينة — رفيق يومك للعبادة، مواقيت الصلاة، اتجاه القبلة، المصحف الشريف الشامل، والأذكار المأثورة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
